@@ -1,0 +1,475 @@
+#Pertama{
+	background: url('../image/pexels-photo-594421.jpeg') no-repeat;
+	background-size: cover;
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	-moz-background-size:cover;
+	height: 650px;
+	padding-top: 20px;
+	color: white;
+}
+#judul{
+	padding-left: 800px;
+	padding-top: 100px;
+}
+#judul h2{
+	font-size: 90px;
+}
+#judul h3{
+	font-size: 50px;
+	width: 900px;
+}
+#Pertama-1{
+	background: url('../image/mountain-bg.jpg') no-repeat;
+	background-size: cover;
+  color: white;
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	-moz-background-size:cover;
+	height: 650px;
+	padding-top: 20px;
+}
+#menu p{
+	padding-left: 200px;
+	float: left;
+}
+#pertama-1 p{
+	align:justify;
+}
+*{
+	margin: 0px; padding: 0px;
+	font-family: 'Noto Sans',sans-serif;
+	font-weight: normal;
+
+	max-width: 100% !important;
+
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+img{
+	max-width: 100%;
+	max-height: 100%;
+}
+.error{
+	color:red;
+	margin-top:-12px;
+}
+
+
+.clear{
+	clear: both;
+  padding: 10px;
+}
+.konten{
+	width: 960px;
+  margin: 0px auto ;
+}
+.konten-1{
+	width: 1060px;
+  margin: 0px auto ;
+}
+#konten{
+	width: 460px;
+	padding: 100px;
+  margin: 10px ;
+	float: left;
+
+}
+button {
+    background-color: rgba(6, 6, 6, 0.5);
+
+}
+.kolom_3{
+	width: 31%;/* dari (300/960*100) */
+	float: left;
+}
+.kolom_3_tengah{
+	margin: 0 3%;
+}
+.kolom_4{
+	width: 30%;/* dari (300/960*100) */
+	float: left;
+}
+.image_kolom5{
+	padding: 30px;
+	float: left;
+}
+.kolom_5{
+	width: 50%;
+	float: left;
+}
+.tengah{
+	padding-top: 70px;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 39%;
+	float: left;
+
+}
+
+#logo{
+
+	display: block;
+	width: 300px;
+	margin: 0 auto;
+}
+
+#menu a{
+	display: block;
+	text-align: center;
+	color: white;
+
+}
+#menu a:hover{
+	background-color: #2c9ddd;
+}
+#menu {
+	background-color:  rgba(92, 88, 88, 0.5);
+	height: 50px;
+	width: 100%;
+	line-height: 50px;
+	font-size: 20px;
+	margin-top: -20px;
+}
+
+
+#box_sd{
+	/*0.7 untuk transparansi*/
+	background-color: rgba(6, 6, 6, 0.5);
+	color: white;
+	text-align: center;
+	margin-right: 10px ;
+	padding: 20px 0;
+
+}
+#box_sd h2{
+  padding: 5px 0;
+	width: 300px;display: block;
+  font-size: 40px;margin: 25px auto 0 auto;
+}
+#box_sd h3{
+  font-size: 20px;
+}
+
+input[type="text"]
+{
+    background: transparent;
+    color: #fff;outline: none;
+}
+#kedua{
+	background: #fff;
+	color: Black;
+	text-align: center;
+	padding-bottom: 100px;
+
+}
+#kedua-1{
+  background: #000;
+	color: white;
+	text-align: center;
+	padding:100px;
+}
+#kedua-1 h2{
+  font-size:40px;
+}
+#kedua-1 h3{
+  font-size:20px;
+
+}
+#Pertama-1 h2{
+	font-size: 40px;
+	margin-left: 300px;
+}
+#Pertama-1 h3{
+	font-size: 20px;
+	margin-left: 300px;
+}
+
+#kedua h3{
+  padding-top: 60px;
+}
+#kedua p{
+  padding-top: 10px;
+}
+hr.onepixel {
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    height: 0px;
+		margin-top: 20px;
+    margin-bottom: 20px;
+}
+hr.onepixel-1 {
+    border-top: 3px solid #fff;
+    border-bottom: 3px solid #fff;
+    height: 0px;
+
+    margin-bottom: 20px;
+}
+.Black{
+	background-color: rgb(9, 10, 7);
+	color: white;
+}
+.justify{
+	align:justify;
+}
+.kolom_5 button{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#kedua-1 button{
+  width:  800px;
+}
+#kedua-1 img{
+	width: 850px; height: 300px;
+	margin-bottom: 10px;
+}
+#detail_artikel img{
+	width: 250px; height: 250px;
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
+
+
+
+
+.deskripsi{
+	font-size: 22px;
+}
+
+
+
+.kolom_2{
+	float: left;
+	width: 46%;
+	margin: 0 1.5%;
+}
+#ketiga h2{
+	text-align: center;
+	color: #0074b9;
+}
+#ketiga input,#ketiga textarea{
+	display: block;
+	width: 100%;
+	height: 30px;
+	margin-bottom: 12px;
+	border: 2px solid #0074b9;
+}
+#ketiga textarea{
+	height: 130px;
+}
+
+input[type="submit"]{
+	background-color: #0074b9;
+	color: white;
+}
+input[type="submit"]:hover{
+	cursor: pointer;
+	background-color: #148fd7;
+}
+#ketiga iframe{
+	max-width: 450px;
+}
+
+
+
+
+.panah_box{
+	width: 60px; height: 60px; line-height: 60px;
+	color: white;background-color: #0074b9;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 150px;
+}
+.panah_box:hover{
+	cursor: pointer;
+	background-color: #148fd7;
+}
+#karya_box{
+	width: 83%;
+	margin:0 20px;
+}
+
+.panah_box,#karya_box,#karya_box_kr,#karya_box_knn{
+	float: left;
+}
+#karya_box_knn{
+	width: 500px;
+	height: 350px;
+}
+#karya_box_kr{
+	width: 29%; padding: 30px 10px 0 10px;
+	height: 300px;
+	background-color: #0074b9;
+	color: white;
+}
+#karya_box_kr h3{
+	font-size: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+#karya_box_kr .deskripsi{
+	font-size: 18px;
+}
+#karya_lain{
+	width: 450px; margin: 50px auto 0 auto;
+}
+#karya_lain img{
+	float: left;
+	display: block;
+	width: 140px;
+	height: 140px;
+	margin-left: 10px;
+}
+
+
+
+
+/*----------Bagiaan Footer---------*/
+#footer{
+	background-color: rgb(0, 0, 0);
+	color: white;
+	text-align: center;
+	padding:10px 0;
+	margin-top: 20px;
+}
+
+#menu_text{
+	display: none;
+	color: white;
+	padding-left: 10px;
+}
+
+
+
+
+
+
+#nav-icon{
+	display: none;
+
+}
+
+
+@media only screen and (max-width: 1024px){
+	#box_sd{
+		font-size: 26px;
+	}
+	#pertama{
+		height: auto;
+	}
+  #pertama-1{
+		height: auto;
+	}
+	h2{
+		font-size: 34px;
+	}
+
+	.setiap_karya_gambar p{
+		position: static;
+		margin: 0 auto;
+		display: block;
+		height: auto;
+		color: white;
+		background-color: transparent;
+		line-height: normal;
+	}
+
+	/*---untuk halaman proto folio---*/
+	#karya_box,#karya_box_kr,#karya_box_knn{
+		float: none;
+		width: 90%;
+		margin: 0 auto;
+		height: auto;
+	}
+	#karya_box img{
+		width: 100%;
+	}
+	#karya_box_kr{
+		padding: 2%;
+		width: 86%;
+	}
+	.panah_box{
+		position: fixed;
+		top: 30%;
+	}
+	.panah_box_knn{
+		right: 0%;
+	}
+	.panah_box_kr{
+		left: 0%;
+	}
+	#karya_lain img{
+		width: 30%;
+	}
+}
+
+
+@media only screen and (max-width: 480px){
+
+	#pertama{
+		background-attachment: fixed;
+	}
+  #pertama-1{
+    background-attachment: fixed;
+  }
+
+	#menu{
+		position: relative;
+	}
+	#nav-icon{
+		display: block;
+		position: absolute;
+		top: 0px;
+		width: 20%;
+		height: 60px;;
+		right: 10px;
+	}
+	.kolom_3,.kolom_2{
+		width: 90%;
+		margin: 0 auto;
+		float: none;
+	}
+	#box_sd{
+		font-size: 12px;
+		margin: 10px 0;
+	}
+	#kedua-1 h2{
+    font-size: 40px;
+  }
+	#kedua-1 img{
+		width: 200px height:200px;
+	}
+	#kedua-1 p{
+		font-size: 10px;
+	}
+	#kedua-1 .kolom_3{
+		margin: 10px auto;
+	}
+	#menu .konten{
+		max-height: 0;
+		overflow: hidden;
+	}
+	#menu_text{
+		display: block;
+	}
+	.menu-open{
+		max-height: 100% !important;
+
+	}
+
+
+	#menu a{
+		border-bottom: 1px solid white;
+	}
+	#menu{
+		height: auto;
+		font-size: 15px;
+	}
+
+}
